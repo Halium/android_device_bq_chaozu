@@ -112,7 +112,6 @@ vendor/lib/libmmcamera_pdaf.so
 vendor/lib/libmmcamera_pdafcamif.so
 vendor/lib/libmmcamera_ppbase_module.so
 vendor/lib/libmmcamera_ppeiscore.so
-vendor/lib/libmmcamera_imx258_mono_gt24c32_eeprom.so
 vendor/lib/libmmcamera_quadracfa.so
 vendor/lib/libmmcamera_stillmore_lib.so
 vendor/lib/libmmcamera_sw2d_lib.so
@@ -451,6 +450,7 @@ etc/firmware/DE.o.msm8937
 lib/libOmxSwVdec.so
 lib/libOmxSwVencMpeg4.so
 lib/libOmxVpp.so
+lib/libstagefright_soft_flacdec.so
 lib/libvpplibrary.so
 vendor/lib/libAlacSwDec.so
 vendor/lib/libApeSwDec.so
